@@ -1,6 +1,6 @@
-# flutter_calculator
+# Basic Flutter Calculator App
 
-A new Flutter project.
+<img src"https://github.com/imShub/Basic_Calculator_Using_Flutter/blob/master/Screenshot_1646554578.png"></img>
 
 ## Getting Started
 
