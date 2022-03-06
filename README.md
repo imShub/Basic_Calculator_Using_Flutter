@@ -1,6 +1,8 @@
 # Basic Flutter Calculator App
 
-<img src"https://github.com/imShub/Basic_Calculator_Using_Flutter/blob/master/Screenshot_1646554578.png">
+<a target="_blank">
+    <img src="https://github.com/imShub/Basic_Calculator_Using_Flutter/blob/master/Screenshot_1646554578.png" width="40px" />
+</a>
 
 ## Getting Started
 
